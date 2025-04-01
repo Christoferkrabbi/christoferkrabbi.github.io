@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(90deg, #3b82f6, #a855f7);
+    background: linear-gradient(135deg, #2020c9, #8114b8);
     background-attachment: fixed;
     color: white;
     text-align: center;
@@ -42,11 +42,12 @@ ul {
 }
 
 li {
+    color
     margin: 10px 0;
 }
 
 a {
-    color: #3b82f6;
+    color: #050096;
     text-decoration: none;
     font-weight: bold;
 }
