@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(135deg, #2020c9, #8114b8);
+    background: linear-gradient(135deg, #2020c9 30%, #8114b8 70%);
     background-attachment: fixed;
     color: white;
     text-align: center;
