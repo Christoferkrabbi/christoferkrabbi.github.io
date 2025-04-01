@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(135deg, #2020c9 50%, #8114b8 50%);
+    background: linear-gradient(135deg, #2020c9 40%, #8114b8 60%);
     background-attachment: fixed;
     color: white;
     text-align: center;
@@ -20,7 +20,7 @@ h1, h2 {
 }
 
 .container {
-    background-color: #703dc4; /* Soft purple */
+    background-color: #8257c9; /* Soft purple */
     margin: 30px auto;
     padding: 20px;
     border-radius: 10px;
@@ -34,11 +34,12 @@ ul {
 }
 
 li {
+    color
     margin: 10px 0;
 }
 
 a {
-    color: black;
+    color: #1b107a;
     text-decoration: none;
     font-weight: bold;
 }
