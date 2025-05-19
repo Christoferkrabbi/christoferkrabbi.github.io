@@ -68,10 +68,11 @@ position: fixed;
     z-index: 1000;
 
 .footer a {
-    color: white;
+    background-color: #8257c9; /* Soft purple */
     margin: 0 10px;
     text-decoration: none;
     font-weight: bold;
+    padding-bottom: 60px;
 }
 
 .footer a:hover {
