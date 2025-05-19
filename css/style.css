@@ -67,15 +67,19 @@ position: fixed;
     box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.3);
     z-index: 1000;
 
-.footer a {
-    background-color: #8257c9; /* Soft purple */
-    margin: 0 10px;
-    text-decoration: none;
-    font-weight: bold;
+.footer {
+   background-color: #8257c9;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 10px;
+    width: 60%;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
     padding-bottom: 60px;
 }
 
 .footer a:hover {
     color: #ffd6ff;
 }
+
+
 
