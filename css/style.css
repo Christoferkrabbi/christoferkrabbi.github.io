@@ -3,7 +3,7 @@ body {
     margin: 0;
     font-family: Georgia, serif;
     color: #2b1e0f;
-    background-image: url("images/night-sky.jpg");
+    background-image: url("Images/night-sky.jpg");
 }
 
 /* Fixed medieval background */
@@ -91,7 +91,7 @@ h2 {
 
 /* Scroll-style cards */
 .scroll-card {
-    background-image: url("images/parchment.jpg");
+    background-image: url("Images/parchment.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -172,3 +172,4 @@ footer {
     border-top: 2px solid #c9a34e;
     padding-top: 20px;
 }
+
